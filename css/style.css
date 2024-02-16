@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+/* Header styles */
+.navbar {
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Form styles */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Button styles */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+/* Login page styles */
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+    }
+}
+
